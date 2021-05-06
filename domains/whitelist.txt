@@ -18,6 +18,7 @@ aspnetcdn.com
 attestation.xboxlive.com
 ax.phobos.apple.com.edgesuite.net
 brightcove.net
+bnc.lt
 c.s-microsoft.com
 cdn.cloudflare.net
 cdn.embedly.com
